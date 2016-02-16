@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guest Book</string>
+    <string name="Submit">Sumbit</string>
+    <string name="Submit1">Submit</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="First">First Name</string>
+    <string name="Last">Last Name</string>
+</resources>
